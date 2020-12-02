@@ -14,9 +14,9 @@ H6148,H6052,H6143,H6144,H6050,H6199,H6054,H5001
 Check the manual of your Lights and look for the model if you dont see
 your lights model in that list then that means it will not work
 
-------Installion-------
-Download Win-TPGoveePlugin.tpp from latest varsion Note: Currently This Plugin is ONLY for Windows Mac will have this later
-Import the Plugin then reboot TouchPortal
+------Installion-------\
+Download Win-TPGoveePlugin.tpp from latest varsion Note: Currently This Plugin is ONLY for Windows Mac will have this later\
+Import the Plugin then reboot TouchPortal\
 And a GUI will pop up that asking you to input Govee API Key
 in order to get the API key you have to have a account that is linked to the Device
 then on any mobile device that have Govee Home APP if you dont it's Free in the playstore
