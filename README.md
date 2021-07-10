@@ -1,3 +1,5 @@
+![Banner](/TPGoveeBanner.png)
+
 # TP-GoveePlugin
 This Plugin is built for [TouchPortal](https://www.touch-portal.com/assetsdb/show-all.php?cat=pl)
 
@@ -20,14 +22,14 @@ your lights model in that list then that means it will not work.
 # Actions and States
 
 ## Actions
-![image](\Images\Actions%20and%20Triggers\GoveeActions.png)
+![image](/Images/Actions%20and%20Triggers/GoveeActions.png)
 * Turn Device Off and On
 * Change Color
 * Change Color Temperature
 * Change Brightness
 
 ## States
-![image](\Images\Actions%20and%20Triggers\GoveeTriggers.png)
+![image](/Images/Actions%20and%20Triggers/GoveeTriggers.png)
 * Get Devices Color
 * Get Devices Online States
 * Get Devices Brightness
