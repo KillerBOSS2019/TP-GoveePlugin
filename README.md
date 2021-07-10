@@ -26,7 +26,7 @@ your lights model in that list then that means it will not work.
 
 # Getting API Key from Govee
 An API key is needed in order for this plugin to work. To get the API key you have to have a account that is linked to the device you would like to use with the plugin.
-1. On any mobile device that have Govee Home APP if you don't have it install you can get it from the Google Play Store or the Apple App Store.
+1. On any mobile device that have Govee Home APP if you don't have it install you can get it from the [Google Play Store](https://play.google.com/store/apps/details?id=com.govee.home) or the [Apple App Store](https://apps.apple.com/us/app/govee-home/id1395696823).
 2. Click User it should be the 4th icon on the bottom.  
 ![Image](/Images/API%20Request/GoveeApp.png)
 3. Click the Cog icon in the top right.   
@@ -43,9 +43,20 @@ An API key is needed in order for this plugin to work. To get the API key you ha
 8. Note the API key down as you will need it later for the installation.
 
 # Installation
-1. Download Win-TPGoveePlugin.tpp from latest version Note: Currently This Plugin is ONLY for Windows Mac will have this later.
-2. Import the Plugin then reboot TouchPortal.
-3. A GUI will pop up that asking you to input Govee API Key.
-4. Paste the API noted down earlier in the GUI that pops up.
-5. Click Submit And now you're ready to go!
+1. Go to <a target="_blank" href="https://github.com/KillerBOSS2019/TP-GoveePlugin/releases" > Releases </a> on the main page of this github.
+2. Make sure download Win-TPGoveePlugin.tpp. *Note: Currently This Plugin is ONLY for Windows Mac will have this later.*  
+3. After you have the file head over to touchportal app on your PC.
+4. On the top right click the wrench icon.  
+![image](Images/Install/ImportPlugin.png)
+5. Click `Import plugin-in...` and select the .tpp file you've downloaded in step 2.
+6. Exit TouchPortal. 
+![image](Images/Install/RestartTouchPortal.gif)
+7. Relaunch TouchPortal. When you do you will get a Warning prompt, Just click the Always Trust button.
+![image](Images/Install/TrustedSite.png)
+8. A GUI will pop up that asking you to input Govee API Key.
+9. Put in your API Key and click the ok button.
+![image](Images/Install/GoveeAPIConfig.png)
+10. You will receive a confirmation that it was successful. After which you are good to go and can start using the plugin.  
+![image](Images/Install/GoveeAPISuccess.png)
+
 
