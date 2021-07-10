@@ -20,16 +20,25 @@ your lights model in that list then that means it will not work.
 # Actions and States
 
 ## Actions
+![image](\Images\Actions%20and%20Triggers\GoveeActions.png)
+* Turn Device Off and On
+* Change Color
+* Change Color Temperature
+* Change Brightness
 
 ## States
-
+![image](\Images\Actions%20and%20Triggers\GoveeTriggers.png)
+* Get Devices Color
+* Get Devices Online States
+* Get Devices Brightness
+* Get Devices Power State
 
 # Getting API Key from Govee
 An API key is needed in order for this plugin to work. To get the API key you have to have a account that is linked to the device you would like to use with the plugin.
 1. On any mobile device that have Govee Home APP if you don't have it install you can get it from the [Google Play Store](https://play.google.com/store/apps/details?id=com.govee.home) or the [Apple App Store](https://apps.apple.com/us/app/govee-home/id1395696823).
 2. Click User it should be the 4th icon on the bottom.  
 ![Image](/Images/API%20Request/GoveeApp.png)
-3. Click the Cog icon in the top right.   
+3. Click the Cog icon in the top right.  
 ![Image](/Images/API%20Request/HomeScreen.png)
 4. Click the last option About Us.  
 ![Image](/Images/API%20Request/SettingPage.png)
@@ -38,7 +47,7 @@ An API key is needed in order for this plugin to work. To get the API key you ha
 6. Fill out the form and click submit.  
 ![Image](/Images/API%20Request/APIRequest.png)
 7. Govee will send you a email with API key in a email associated with your account.  
-*it should say "Your API Key is XXXXXX-XXX-XXXX-XXXX-XXXXXXX"
+*it should say "Your API Key is XXXXXX-XXX-XXXX-XXXX-XXXXXXX"  
 ![Image](/Images/API%20Request/Email.png)
 8. Note the API key down as you will need it later for the installation.
 
@@ -49,12 +58,12 @@ An API key is needed in order for this plugin to work. To get the API key you ha
 4. On the top right click the wrench icon.  
 ![image](Images/Install/ImportPlugin.png)
 5. Click `Import plugin-in...` and select the .tpp file you've downloaded in step 2.
-6. Exit TouchPortal. 
+6. Exit TouchPortal.  
 ![image](Images/Install/RestartTouchPortal.gif)
-7. Relaunch TouchPortal. When you do you will get a Warning prompt, Just click the Always Trust button.
+7. Relaunch TouchPortal. When you do you will get a Warning prompt, Just click the Always Trust button.  
 ![image](Images/Install/TrustedSite.png)
 8. A GUI will pop up that asking you to input Govee API Key.
-9. Put in your API Key and click the ok button.
+9. Put in your API Key and click the ok button.  
 ![image](Images/Install/GoveeAPIConfig.png)
 10. You will receive a confirmation that it was successful. After which you are good to go and can start using the plugin.  
 ![image](Images/Install/GoveeAPISuccess.png)
