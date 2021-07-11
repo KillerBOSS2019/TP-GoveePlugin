@@ -65,7 +65,7 @@ An API key is needed in order for this plugin to work. To get the API key you ha
 7. Relaunch TouchPortal. When you do you will get a Warning prompt, Just click the Always Trust button.  
 ![image](Images/Install/TrustedSite.png)
 8. A GUI will pop up that asking you to input Govee API Key.
-9. Put in your API Key and click the ok button.  
+9. Put in your API Key and click the Submit button.  
 ![image](Images/Install/GoveeAPIConfig.png)
 10. You will receive a confirmation that it was successful. After which you are good to go and can start using the plugin.  
 ![image](Images/Install/GoveeAPISuccess.png)
